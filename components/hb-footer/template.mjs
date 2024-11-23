@@ -14,14 +14,12 @@ template.innerHTML = `
                 <div>
                     <h5>Thank</h5>
                     <ul>
-                        <li><a href="https://dear.kiitos.earth/#HeartBank">Kiitos</a></li>
+                        <li><a href="https://heartbank.ceo/#HeartBank">HeartBank</a></li>
                     </ul> 
                 </div>
                 <div>
                     <h5>Sponsor</h5>
                     <ul>
-                        <li><a href="https://heartbank.fund/#HeartBank">HeartBank</a></li>
-                        <li><a href="https://kitty.kiitti.app/#HeartBank">Kiitti</a></li>
                         <li><a href="https://github.com/sponsors/heartbank">GitHub</a></li>
                     </ul> 
                 </div>
@@ -30,16 +28,16 @@ template.innerHTML = `
                 <div>
                     <h5>Follow</h5>
                     <ul>
-                        <li><a href="https://me.thonly.net/#HeartBank">THonly</a></li>
-                        <li><a href="https://twitter.com/heartbank">Twitter</a></li>
-                        <li><a href="https://youtube.com/@HeartBank">YouTube</a></li>
+                        <li><a href="https://x.com/heartbank">X</a></li>
+                        <!--<li><a href="https://me.thonly.net/#HeartBank">THonly</a></li>
+                        <li><a href="https://youtube.com/@HeartBank">YouTube</a></li>-->
                     </ul>
                 </div>
                 <div>
                     <h5>Contact</h5>
                     <ul>
                         <li><a href="mailto:thank@heartbank.com">thank@heartbank.com</a></li>
-                        <li><a href="https://siliconwat.dev">Silicon Wat Agency</a></li>
+                        <!--<li><a href="https://siliconwat.dev">Silicon Wat Agency</a></li>-->
                     </ul>
                 </div>
             </section>
