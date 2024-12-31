@@ -33,6 +33,11 @@ template.innerHTML = `
                         </menu>-->
                     </nav>
                 </li>
+                <h3>Net</h3>
+                    <nav>
+                        <a href="https://heartbank.net"><button>HeartBank.Net</button></a>
+                    </nav>
+                </li>
                 <!--<li>
                     <h3>Club</h3>
                     <nav>
