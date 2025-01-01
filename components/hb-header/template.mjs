@@ -15,8 +15,8 @@ template.innerHTML = `
         </label>
         <div>
             <ul>
-            <li>
-                <h3>CEO</h3>
+                <li>
+                    <h3>CEO</h3>
                     <nav>
                         <a href="https://heartbank.ceo"><button>HeartBank.CEO</button></a>
                         <!--<h4>Decentralized Companies</h4>
@@ -33,7 +33,8 @@ template.innerHTML = `
                         </menu>-->
                     </nav>
                 </li>
-                <h3>Net</h3>
+                <li>
+                    <h3>Net</h3>
                     <nav>
                         <a href="https://heartbank.net"><button>HeartBank.Net</button></a>
                     </nav>
